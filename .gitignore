@@ -1,0 +1,5 @@
+node_modules
+.eslintrc.json
+.dockerignore
+.env
+package-lock.json
